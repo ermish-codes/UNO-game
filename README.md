@@ -2,7 +2,7 @@
 
 UNO (2-Player Console Game)
 
-A **console-based UNO game** for 2 players, developed by Ermish Tabassum and Hanzala Ahsan. Play the classic card game UNO on your Windows terminal, complete with colored cards, special card actions, and a persistent scoreboard.
+A **console-based UNO game** for 2 players, developed by me and my team mate Hanzala Ahsan. This the classic card game UNO works on Windows terminal, complete with colored cards, special card actions, and a persistent scoreboard.
 
 ---
 
