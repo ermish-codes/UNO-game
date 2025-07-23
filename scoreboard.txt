@@ -1,0 +1,30 @@
+Game: 0
+Winner: Player 0
+Points of winner for this game: 50
+Player 1 score: 0
+Player 2 score: 0
+--------------------------
+Game: 1
+Winner: Player 2
+Points of winner for this game: 50
+Player 1 score: 0
+Player 2 score: 50
+--------------------------
+Game: 2
+Winner: Player 1
+Points of winner for this game: 50
+Player 1 score: 50
+Player 2 score: 50
+--------------------------
+Game: 3
+Winner: Player 2
+Points of winner for this game: 50
+Player 1 score: 50
+Player 2 score: 100
+--------------------------
+Game: 0
+Winner: Player 0
+Points of winner for this game: 50
+Player 1 score: 0
+Player 2 score: 0
+--------------------------
